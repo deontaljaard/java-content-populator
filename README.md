@@ -18,12 +18,12 @@ The entry point of the program takes 5 parameters.
 }
 5. The http client to use. For example: apache, java8, java9.
 
-# PS
-The project evolved in pricked an interest in multipart requests, which is why the project has plans to support various clients that can perform/handle multipart requests. 
+# Side note
+The project pricked an interest in multipart requests, which is why the project has plans to support various clients that can perform/handle multipart requests. 
 
-Implemented
+## Implemented
 * Apache http client
 
-To be implemented
+## To be implemented
 * Java 8 http client
 * Java 9 http2 client
